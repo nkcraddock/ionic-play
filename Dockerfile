@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:bionic
 
 ARG NODEJS_VERSION="10"
 ARG IONIC_VERSION="4.2.1"
